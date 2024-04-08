@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.cps": "javascript",
+        "*.h": "c",
+        "*.tpp": "cpp"
+    },
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "master"
+    ]
+}
